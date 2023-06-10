@@ -18,7 +18,7 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 0x776F6C66 pwn hacks # the main title
+title: "0x776F6C66" # the main title
 
 tagline: Binary Exploitation, Mitigation & Research # it will display as the sub-title
 
@@ -32,12 +32,12 @@ github:
   username: calvin-kimani # change to your github username
 
 twitter:
-  username: 0x776F6C66 # change to your twitter username
+  username: "0x776F6C66" # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: calvin kimani (0x776F6C66)
+  name: calvin kimani
   email: shellbash0@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
@@ -86,10 +86,12 @@ avatar: https://avatars.githubusercontent.com/u/132518910?v=4
 toc: true
 
 comments:
-  active: # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
+  active: disqus
+  # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
   # The active options are as follows:
   disqus:
-    shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
+    shortname: calvin-kimani
+    # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
   # utterances settings › https://utteranc.es/
   utterances:
     repo: # <gh-username>/<repo>
