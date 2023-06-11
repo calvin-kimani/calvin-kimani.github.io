@@ -7,10 +7,8 @@ author: calvin-kimani
 ---
 
 >This is the sequel to [overflow in the fl4gtory]({% post_url 2023-06-10-GPN-CTF-overflow-in-the-fl4gtory-writeup %})
-
 {: .prompt-tip }
 
-# Overflow in the Fl4gtory
 ## Challenge Description:
 
 The "Overflows keep flowing" challenge presents a vulnerable program with a simple buffer overflow vulnerability. The objective is to exploit this vulnerability to gain control over the program and gain `remote code execution` by calling `execve` within the program, which will grant access to the flag.

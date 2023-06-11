@@ -102,5 +102,5 @@ After constructing the payload, we establish a connection to the target server u
 By leveraging the buffer overflow vulnerability in the "Overflow in the Fl4gtory" challenge, we successfully gained control over the program's execution flow and executed the shutoff() function to obtain the flag.
 
 
->Writeup for "Overlows keep flowing" coming soon..
+>[overflows keep flowing]({% post_url 2023-06-10-GPN-CTF-oveflows-keep-flowing-writeup %})
 {: .prompt-tip }
