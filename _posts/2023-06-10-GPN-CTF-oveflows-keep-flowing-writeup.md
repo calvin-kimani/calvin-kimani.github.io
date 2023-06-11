@@ -6,7 +6,8 @@ tags: ["easy",'ctf' , "kitctf", "gpn-ctf", "intro-to-pwn"]
 author: calvin-kimani
 ---
 
->This is the sequel to [overflows in the fl4gtory](./2023-06-10-GPN-CTF-overflow-in-the-fl4gtory-writeup.md)
+>This is the sequel to [overflow in the fl4gtory]({% post_url 2023-06-10-GPN-CTF-overflow-in-the-fl4gtory-writeup %})
+
 {: .prompt-tip }
 
 # Overflow in the Fl4gtory
