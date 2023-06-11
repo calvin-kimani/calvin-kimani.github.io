@@ -1,8 +1,8 @@
 ---
-title: GPN-CTF - Pwn
+title: "GPN-CTF: Overflow in the Fl4gtory" 
 date: 2023-06-10 23:32:18 +0300
 categories: ["pwn", "buffer overflows"]
-tags: ["easy", "kitctf", "gpn-ctf", "intro-to-pwn"]
+tags: ["easy",'ctf' , "kitctf", "gpn-ctf", "intro-to-pwn"]
 author: calvin-kimani
 ---
 
